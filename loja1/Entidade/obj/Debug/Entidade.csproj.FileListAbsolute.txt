@@ -1,0 +1,6 @@
+C:\Users\AlexNFNET\source\repos\loja1\Entidade\bin\Debug\Entidade.dll
+C:\Users\AlexNFNET\source\repos\loja1\Entidade\bin\Debug\Entidade.pdb
+C:\Users\AlexNFNET\source\repos\loja1\Entidade\obj\Debug\Entidade.csprojAssemblyReference.cache
+C:\Users\AlexNFNET\source\repos\loja1\Entidade\obj\Debug\Entidade.csproj.CoreCompileInputs.cache
+C:\Users\AlexNFNET\source\repos\loja1\Entidade\obj\Debug\Entidade.dll
+C:\Users\AlexNFNET\source\repos\loja1\Entidade\obj\Debug\Entidade.pdb

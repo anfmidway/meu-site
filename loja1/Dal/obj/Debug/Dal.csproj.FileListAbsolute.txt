@@ -1,0 +1,6 @@
+C:\Users\AlexNFNET\source\repos\loja1\Dal\bin\Debug\Dal.dll
+C:\Users\AlexNFNET\source\repos\loja1\Dal\bin\Debug\Dal.pdb
+C:\Users\AlexNFNET\source\repos\loja1\Dal\obj\Debug\Dal.csprojAssemblyReference.cache
+C:\Users\AlexNFNET\source\repos\loja1\Dal\obj\Debug\Dal.csproj.CoreCompileInputs.cache
+C:\Users\AlexNFNET\source\repos\loja1\Dal\obj\Debug\Dal.dll
+C:\Users\AlexNFNET\source\repos\loja1\Dal\obj\Debug\Dal.pdb
